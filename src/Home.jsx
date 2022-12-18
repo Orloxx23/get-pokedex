@@ -63,7 +63,7 @@ export default function Home() {
         </div>
       </nav>
 
-      <div className="container py-4 py-xl-5 coverpage-container">
+      {/* <div className="container py-4 py-xl-5 coverpage-container">
         <div className="row gy-4 gy-md-0">
           <div className="col-md-6 text-center text-md-start d-flex d-sm-flex d-md-flex justify-content-center align-items-center justify-content-md-start align-items-md-center justify-content-xl-center">
             <div style={{ maxWidth: "100%", width: "80%" }}>
@@ -116,7 +116,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
 
       <section>
         <div className="spline-scene">
