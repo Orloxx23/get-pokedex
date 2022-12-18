@@ -147,7 +147,7 @@ export default function Home() {
                     </svg>
                   </div>
                   <h4 className="card-title" style={{ color: "#303030" }}>
-                    Base stast
+                    Base stats
                   </h4>
                   <h6 className="text-muted card-subtitle mb-2">
                     Look at the base stats of each pokemon
