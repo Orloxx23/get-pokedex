@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/get-pokedex/static/css/main.a87afe36.css",
+    "main.js": "/get-pokedex/static/js/main.9f66c502.js",
+    "static/js/227.d107b212.chunk.js": "/get-pokedex/static/js/227.d107b212.chunk.js",
+    "static/js/526.ace9d9e2.chunk.js": "/get-pokedex/static/js/526.ace9d9e2.chunk.js",
+    "static/js/232.7a96ae28.chunk.js": "/get-pokedex/static/js/232.7a96ae28.chunk.js",
+    "static/js/237.e8f6d9b8.chunk.js": "/get-pokedex/static/js/237.e8f6d9b8.chunk.js",
+    "static/js/787.78f2f89d.chunk.js": "/get-pokedex/static/js/787.78f2f89d.chunk.js",
+    "static/media/png": "/get-pokedex/static/media/76479dd91dc55c2768ddccfc30a4fbf5.6c94309028c267dd8403.png",
+    "static/media/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXo.woff2": "/get-pokedex/static/media/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXo.acb6629fe45c43ad5d8b.woff2",
+    "static/media/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXpsog.woff2": "/get-pokedex/static/media/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXpsog.0204ec08a4b574088f02.woff2",
+    "static/media/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw0aXpsog.woff2": "/get-pokedex/static/media/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw0aXpsog.bbf9e820a2563aac0d8b.woff2",
+    "static/media/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aXpsog.woff2": "/get-pokedex/static/media/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aXpsog.e5c5c19c23e370a342c8.woff2",
+    "static/media/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2": "/get-pokedex/static/media/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.8f3f4c99eb0eeb5990f1.woff2",
+    "index.html": "/get-pokedex/index.html",
+    "main.a87afe36.css.map": "/get-pokedex/static/css/main.a87afe36.css.map",
+    "main.9f66c502.js.map": "/get-pokedex/static/js/main.9f66c502.js.map",
+    "227.d107b212.chunk.js.map": "/get-pokedex/static/js/227.d107b212.chunk.js.map",
+    "526.ace9d9e2.chunk.js.map": "/get-pokedex/static/js/526.ace9d9e2.chunk.js.map",
+    "232.7a96ae28.chunk.js.map": "/get-pokedex/static/js/232.7a96ae28.chunk.js.map",
+    "237.e8f6d9b8.chunk.js.map": "/get-pokedex/static/js/237.e8f6d9b8.chunk.js.map",
+    "787.78f2f89d.chunk.js.map": "/get-pokedex/static/js/787.78f2f89d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a87afe36.css",
+    "static/js/main.9f66c502.js"
+  ]
+}
