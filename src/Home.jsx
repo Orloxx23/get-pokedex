@@ -215,7 +215,7 @@ export default function Home() {
         <div className="container">
           <div className="bg-light border rounded border-0 border-light d-flex flex-column justify-content-between flex-lg-row p-4 p-md-5">
             <h2 className="fw-bold mb-2" style={{ textAlign: "left" }}>
-              Downlad now pokedex
+              Download now pokedex
             </h2>
             <div className="my-2">
               <a
